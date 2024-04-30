@@ -12,4 +12,5 @@ This project implements the Discrete Fourier Transform (DFT) using a neural netw
 ### Dependencies:
 
 - Python
-- Neural Network Framework (e.g., TensorFlow, PyTorch)
+- Neural Network Framework (PyTorch)
+- Other libraries (Numpy, Matplotlib)
